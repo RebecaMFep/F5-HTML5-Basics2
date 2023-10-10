@@ -1,6 +1,19 @@
-.circle {
+#ordered {
+    margin-left: 100px;
+
+}
+
+
+ol.alphabet {
+    list-style-type: lower-alpha;
+}
+ol.romans {
+    list-style-type: upper-roman;
+}
+
+ul.circled {
     list-style-type: circle;
 }
-.square {
+ul.squared {
     list-style-type: square;
 }
