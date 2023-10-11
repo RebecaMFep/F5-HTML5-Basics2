@@ -1,19 +1,12 @@
-#ordered {
-    margin-left: 100px;
+.container {
+    width: 100%;
+    display: flex;
 
+    justify-content: center;
 }
-
-
-ol.alphabet {
-    list-style-type: lower-alpha;
-}
-ol.romans {
-    list-style-type: upper-roman;
+.align-list{
+    margin-right: 2vh;
 }
 
-ul.circled {
-    list-style-type: circle;
-}
-ul.squared {
-    list-style-type: square;
-}
+
+
